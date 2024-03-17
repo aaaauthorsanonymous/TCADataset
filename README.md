@@ -1,7 +1,7 @@
 # Teaching Courseware Assessment Dataset(TCADataset)
 
 ## About the dataset：
-![image](https://github.com/aaauthors/TCDADataset/blob/main/TDAM/fig/TCDA.png)
+![image](https://github.com/aaaauthorsanonymous/TCADataset/blob/main/TCAM/TCA%20Dataset/TCA.png)
 
 
 The dataset contains teaching courseware for nine subjects common in middle school. A total of 92,624 picture samples, including four types of courseware basic visual expression elements, namely, title, text, table and picture. The details are shown in Figure 1.
